@@ -7,9 +7,23 @@ permalink: as1/index.html
 These are images from Assignment 1.
 
 <style>
-    img {
+    #content > p > img {
         width: 450px;
         height: 450px;
+        vertical-align: middle;
+        -webkit-box-reflect: below 2px -webkit-linear-gradient(top,
+                transparent, transparent .8, rgba(255,255,255,0.20));
+        -webkit-border-radius: 6px;
+           -moz-border-radius: 6px;
+            -ms-border-radius: 6px;
+             -o-border-radius: 6px;
+                border-radius: 6px;
+        padding: 4px 4px 2px 4px;
+        margin: 1em 1em .1em 1em;
+        -webkit-box-shadow: none;
+           -moz-box-shadow: 4px;
+            -ms-box-shadow: 4px;
+             -o-box-shadow: 4px;
     }
 </style>
 
