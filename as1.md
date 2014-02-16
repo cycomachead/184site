@@ -29,14 +29,14 @@ These are images from Assignment 1.
 
 All these commands used `-file 500` to render the images.
 
-###### Image 1
+### Image 1
 • An image showing diffuse only shading from a single light source
 
 ![1.png](1.png)
 
 `./as1 -pl 1000 1000 1000 .8 .4 .4 -kd 1 0 2 `
 
-###### Image 2
+### Image 2
 • An image showing specular only shading from a single directional light source
 
 ![2.png](2.png)
@@ -44,7 +44,7 @@ All these commands used `-file 500` to render the images.
 `./as1 -dl 10 10 10 .8 .4 .4 -ks 1 .2 1 -sp 4 -ka .4 .1 .4`
 <br />
  
-###### Image 3
+### Image 3
 • An image showing specular only shading from a single point light source
 
 ![3.png](3.png)
@@ -52,13 +52,15 @@ All these commands used `-file 500` to render the images.
 `./as1 -pl 80 80 90 3.9 .4 .4 -ks 1 .2 1 -sp 1 -ka .4 .2 .4`
 <br />
 
-###### Image 4
+### Image 4
 • An image showing combined specular and diffuse shading
+
 ![4.png](4.png)
+
 `./as1 -pl 200 200 200 .6 .6 .6 -kd 1 1 0 -ka 0 1 1 -ks .8 .6 .8 -sp 98`
 <br />
 
-###### Image 5
+### Image 5
 • An image with multiple light sources
 
 ![5.png](5.png)
