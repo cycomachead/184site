@@ -109,7 +109,7 @@ _These were all rendered from file 5, simply for comparison._
 
 
 Buggy File (Just for fun!)
+
 ![buggy.png](buggy.png)
 
-* * *
 * * *
