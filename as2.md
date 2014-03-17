@@ -18,16 +18,16 @@ have used a bit more love... BUT I plan on doing extra credit in a week or so.
 So, on to the images. I'm simply linking the files I submitted.
 
 ### Images
-![image-1.png]()
-* [notes-1.txt]()
-* [input-1.txt]()
+![image-1.png](image-1.png)
+* [notes-1.txt](notes-1.txt)
+* [input-1.txt](input-1.txt)
 ***
-![image-2.png]()
-* [notes-2.txt]()
-* [input-2.txt]()
-![image-3.png]()
-* [notes-3.txt]()
-* [input-3.txt]()
-![image-4.png]()
-* [notes-4.txt]()
-* [input-4.txt]()
+![image-2.png](image-2.png)
+* [notes-2.txt](notes-2.txt)
+* [input-2.txt](input-2.txt)
+![image-3.png](image-3.png)
+* [notes-3.txt](notes-3.txt)
+* [input-3.txt](input-3.txt)
+![image-4.png](image-4.png)
+* [notes-4.txt](notes-4.txt)
+* [input-4.txt](input-4.txt)
