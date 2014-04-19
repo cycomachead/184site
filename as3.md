@@ -55,15 +55,16 @@ __Partner: Tomo Ueda__
 
 ## Video Submission
 The following video demonstrated all the following features, except toggling 
-hidden line mode via the `h` key. (That can be verified above.)
+hidden line mode via the `h` key. (That can be verified above.) Click the full
+screen button to view at a good size!
 
-<object  classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab">
-    <param name="src" value="video-01.mov">
+<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="794px" height="776px">
+    <param name="src" value="video-01.mov" height="776" width="794">
     <param name="controller" value="true">
     <param name="autoplay" value="true">
     <embed src="video-01.mov"
-        
-        controller="true" autoplay="true"
-        scale="tofit" cache="true"
+        width=794 height=776
+        controller="true" autoplay="**false***"*
+        cache="true"
         pluginspage="http://www.apple.com/quicktime/download/">
 </object>
