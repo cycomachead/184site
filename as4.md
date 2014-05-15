@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Assignment 3
-permalink: as3/index.html
+title: Assignment 4
+permalink: as4/index.html
 ---
 
 __Partner: Tomo Ueda (cs184-ag)__
