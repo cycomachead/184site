@@ -22,7 +22,7 @@ The following video demonstrated all the following features:
     <param name="src" value="video-01.mov" height="1624" width="1608">
     <param name="controller" value="true">
     <param name="autoplay" value="true">
-    <embed src="IK-better.*mov*"
+    <embed src="IK-better.mov"
         width=1624 height=1608
         controller="true" autoplay="**false***"*
         cache="true"
